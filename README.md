@@ -1,16 +1,18 @@
 # SQLITE_Connector
-Perfect. Below is a **complete `README.md`** file that includes:
 
 ✅ Intro & Installation
+
 ✅ JavaScript & TypeScript usage examples
+
 ✅ SQLite table creation
+
 ✅ API reference
+
 ✅ ✅ NEW: Comparison Table between JS & TS
+
 ✅ ✅ NEW: How to use with Express API routes
 
 ---
-
-## ✅ Full `README.md` (copy directly to GitHub)
 
 ````md
 # 📦 SQLite Database Wrapper (Node.js / TS / JS)
@@ -222,16 +224,5 @@ MIT — Free for personal and commercial use.
 
 ## 🦾 Author
 
-Made with ❤️ by \[Your Name]
+Made with ❤️ by \[Hamza Chaali]
 
-```
-
----
-
-### Do you want me to:
-- Generate this as a `README.md` file for download?  
-- Translate it to Arabic or French as well?  
-- Add example `db.ts` or `api` folders?
-
-Let me know how you want to finalize it.
-```
