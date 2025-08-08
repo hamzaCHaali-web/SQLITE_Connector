@@ -224,5 +224,5 @@ MIT — Free for personal and commercial use.
 
 ## 🦾 Author
 
-Made with ❤️ by \[Hamza Chaali]
+Made with ❤️ by \ Hamza Chaali
 
