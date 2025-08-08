@@ -14,7 +14,7 @@
 
 ---
 
-````md
+
 # 📦 SQLite Database Wrapper (Node.js / TS / JS)
 
 A lightweight SQLite3 wrapper class for Node.js projects — built for simplicity and flexibility. Works with both **JavaScript** and **TypeScript**.
